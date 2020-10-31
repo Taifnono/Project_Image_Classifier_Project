@@ -4,17 +4,17 @@ This is my second project for Udacity's "Introduction to Machine Learning with T
 
 Tools used in this project:
 
-Python
-Numpy
-Panda
-Matplotlib
-Tensonflow
-Tensorflow Hub
-Anaconda (Jypyter Notebook)
-GPU required
-Data
+- Python
+- Numpy
+- Panda
+- Matplotlib
+- Tensonflow
+- Tensorflow Hub
+- Anaconda (Jypyter Notebook)
+- GPU required
 
+##### Data:
 The dataset used is Oxford 102 Category Flower Dataset.
 
-License
+##### License
 This project belongs to Udacity Nanodegree, all the copyrights belog to Udacity.
